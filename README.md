@@ -28,5 +28,5 @@ In this challenge identify the top 10 bacterial species in their belly buttons. 
 * Here is an example of the output from subject number 940: 
 ![Belly](https://github.com/lykkelig/plotly_deployment/blob/main/static/images/Belly_Button_Page_1.png)
 
-* Here is an example showing subject number 1277 and how the subject could be changed: 
+* Here is an example showing subject number 1601 and how the subject could be changed: 
 ![New_Subject](https://github.com/lykkelig/plotly_deployment/blob/main/static/images/Subject_Selection.png)
